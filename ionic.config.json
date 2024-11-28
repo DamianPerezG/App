@@ -1,0 +1,7 @@
+{
+  "name": "MiGestorTareas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
